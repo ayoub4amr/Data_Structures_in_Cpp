@@ -155,7 +155,7 @@ public:
     {
         if (this->length <= index || this->length == 0 || index < 0)
             return;
-        if (this->length == 1 || index == 0)
+        if (index == 0)
         {
             this->deleteFront();
             return;
