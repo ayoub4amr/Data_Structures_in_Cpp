@@ -1,7 +1,8 @@
 {
-    "files.associations": {
-        "iostream": "cpp",
-        "random": "cpp",
-        "limits": "cpp"
-    }
+  "files.associations": {
+    "iostream": "cpp",
+    "random": "cpp",
+    "limits": "cpp",
+    "stdexcept": "cpp"
+  }
 }
